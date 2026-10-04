@@ -55,7 +55,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: anand1590/bankapp:latest
+        image: chinnamani0304/bankapp:latest
         ports:
         - containerPort: 8080
         env:
