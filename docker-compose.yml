@@ -14,7 +14,7 @@ services:
       - bankapp-net
 
   bankapp:
-    image: anand1590/bankapp:latest
+    image: chinna143/bankapp:latest
     container_name: bankapp
     restart: always
     depends_on:
